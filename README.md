@@ -5,7 +5,7 @@
 
 > ### Instructor
 
->**Boris Rebolledo - Jaramillo **   
+>**Boris Rebolledo - Jaramillo**   
 Centro de Genética y Genómica  
 Fac. de Medicina CAS-UDD  
 [brebolledo@udd.cl](mailto:brebolledo@udd.cl?Subject=Bioestadistica) 
