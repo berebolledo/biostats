@@ -23,7 +23,10 @@ Fac. de Medicina CAS-UDD
 Sala 207 Edificio "del frente"
 
 ----
-
+> ### Evaluación
+> 40% Tareas prácticas (~5)  
+60% Informe final de aplicación de conceptos
+----
 > ### Contenidos
 
 
