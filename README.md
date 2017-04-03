@@ -3,9 +3,9 @@
 
 -----
 
-> ### Instructor
+> ### Instructor  
 
->**Boris Rebolledo - Jaramillo**   
+> **Boris Rebolledo - Jaramillo**   
 Centro de Genética y Genómica  
 Fac. de Medicina CAS-UDD  
 [brebolledo@udd.cl](mailto:brebolledo@udd.cl?Subject=Bioestadistica) 
@@ -13,7 +13,7 @@ Fac. de Medicina CAS-UDD
 ----
 
 > ### Descripción del curso
-Curso teórico y práctico diseñado para desarrollar capacidades de análisis estadísticos en las ciencias biológicas y médicas.
+> Curso teórico y práctico diseñado para desarrollar capacidades de análisis estadísticos en las ciencias biológicas y médicas.
 
 ----
 
@@ -34,7 +34,7 @@ Fecha | Nombre | Contenidos
 18 Abril|Introducción a la inferencia y probabilidades|
 25 Abril| Modelos de diseño de investigación|
 2 Mayo| *Charla de interés o discusión de artículo*|
-9 Mayo| Tamaño muestral y error| Poder estadístico
+9 Mayo| Tamaño muestral y error|
 16 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
 23 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
 30 Mayo|Análisis bivariable: Cuantitativa vs cualitativa|
