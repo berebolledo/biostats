@@ -4,7 +4,6 @@
 -----
 
 > ### Instructor  
-
 > **Boris Rebolledo - Jaramillo**   
 Centro de Genética y Genómica  
 Fac. de Medicina CAS-UDD  
@@ -18,7 +17,6 @@ Fac. de Medicina CAS-UDD
 ----
 
 > ### Horario
-
 > Martes 8:30am - 11:20am  
 Sala 207 Edificio "del frente"
 
@@ -30,14 +28,14 @@ Sala 207 Edificio "del frente"
 > ### Contenidos
 
 
-Fecha | Nombre | Contenidos
-------|--------|-----------
-4 Abril|Introducción|
-11 Abril|Estadística descriptiva|
-18 Abril|Introducción a la inferencia y probabilidades|
-25 Abril| Modelos de diseño de investigación|
+Fecha | Nombre | Contenidos| Materiales
+------|--------|-----------|-----------
+4 Abril|Introducción|Bienvenida al curso **\|** Pre-evaluación **\|** Introducción a R|[\[pdf\]](https://drive.google.com/open?id=0B429OUPeeFidZ2g2R1RPQXVPYkU) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUnlVcXU3V0Z0Vkk)
+11 Abril|Estadística descriptiva parte I|Población vs. muestra **\|** Tipos de variable **\|** Estadística descriptiva de variables cualitativas **\|** Gráficos de barras y torta| [\[pdf\]](https://drive.google.com/open?id=0B429OUPeeFidVmhFWWFmY0VfLVE) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWFE4NmNjZjI5RFk) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg) **\|** [\[Apunte\]](https://drive.google.com/open?id=0B429OUPeeFiddzlmTzdpSW5lQUU)
+18 Abril|Estadística descriptiva parte II|Medidas de tendencia central **\|** Medidas de dispersión **\|** Boxplot **\|** Histogramas |
+25 Abril| **Por definir**|
 2 Mayo| *Charla de interés o discusión de artículo*|
-9 Mayo| Tamaño muestral y error|
+9 Mayo| **Por definir**|
 16 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
 23 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
 30 Mayo|Análisis bivariable: Cuantitativa vs cualitativa|
