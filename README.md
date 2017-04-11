@@ -47,7 +47,6 @@ Fecha | Nombre | Contenidos| Materiales
 11 Julio|Presentación de trabajos|
 
 > ### R y RStudio
-
 > PASOS:
 1. Instala R
 https://cran.dcc.uchile.cl/
