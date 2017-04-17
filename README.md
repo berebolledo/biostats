@@ -30,9 +30,9 @@ Sala 207 Edificio "del frente"
 
 Fecha | Nombre | Contenidos| Materiales
 ------|--------|-----------|-----------
-4 Abril|Introducción|Bienvenida al curso **\|** Pre-evaluación **\|** Introducción a R|[\[pdf\]](https://drive.google.com/open?id=0B429OUPeeFidZ2g2R1RPQXVPYkU) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUnlVcXU3V0Z0Vkk)
-11 Abril|Estadística descriptiva parte I|Población vs. muestra **\|** Tipos de variable **\|** Estadística descriptiva de variables cualitativas **\|** Gráficos de barras y torta| [\[pdf\]](https://drive.google.com/open?id=0B429OUPeeFidVmhFWWFmY0VfLVE) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWFE4NmNjZjI5RFk) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg) **\|** [\[Apunte\]](https://drive.google.com/open?id=0B429OUPeeFiddzlmTzdpSW5lQUU)
-18 Abril|Estadística descriptiva parte II|Medidas de tendencia central **\|** Medidas de dispersión **\|** Boxplot **\|** Histogramas |
+4 Abril|Introducción|Bienvenida al curso **\|** Pre-evaluación **\|** Introducción a R|[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZ2g2R1RPQXVPYkU) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUnlVcXU3V0Z0Vkk)
+11 Abril|Estadística descriptiva parte I|Población vs. muestra **\|** Tipos de variable **\|** Estadística descriptiva de variables cualitativas **\|** Gráficos de barras y torta| [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidVmhFWWFmY0VfLVE) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWFE4NmNjZjI5RFk) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg) **\|** [\[Apunte\]](https://drive.google.com/open?id=0B429OUPeeFiddzlmTzdpSW5lQUU)
+18 Abril|Estadística descriptiva parte II|Medidas de tendencia central **\|** Medidas de dispersión **\|** Boxplot **\|** Histogramas |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZmJFeWlhUm9vbG8) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFiddHp3aklIbXpwT2c) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg)
 25 Abril| **Por definir**|
 2 Mayo| *Charla de interés o discusión de artículo*|
 9 Mayo| **Por definir**|
