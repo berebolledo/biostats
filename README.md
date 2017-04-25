@@ -18,12 +18,13 @@ Fac. de Medicina CAS-UDD
 
 > ### Horario
 > Martes 8:30am - 11:20am  
-Sala 207 Edificio "del frente"
+Sala 207 Plaza de la investigación
 
 ----
 > ### Evaluación
-> 40% Tareas prácticas (~5)  
-60% Informe final de aplicación de conceptos
+> 30% Tareas prácticas  
+20% Discusión de artículos  
+50% Informe final de aplicación de conceptos  
 ----
 > ### Contenidos
 
