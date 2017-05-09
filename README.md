@@ -36,16 +36,16 @@ Fecha | Nombre | Contenidos| Materiales
 18 Abril|Estadística descriptiva parte II|Medidas de tendencia central **\|** Medidas de dispersión **\|** Histogramas |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZmJFeWlhUm9vbG8) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFiddHp3aklIbXpwT2c) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg)
 25 Abril| Estadística descriptiva parte III|Boxplots **\|** Resumen **\|** Tarea 1 **\|** Artículo |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidRVh5YTEtNFFsa0k) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUnZQNEJLS3hlR3M) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg) **\|** [\[base_de_datos_tarea1\]](https://drive.google.com/open?id=0B429OUPeeFidZExpZURIRmFWaTg) **\|** [\[Tarea_1\]](https://drive.google.com/open?id=0B429OUPeeFidZlV5X01JRHpsYlE) **\|** [\[Artículo\]](https://drive.google.com/open?id=0B429OUPeeFidSm1haHE3Z2lTY3M)
 2 Mayo| *Charla de interés o discusión de artículo*|
-9 Mayo| **Por definir**|
-16 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
-23 Mayo|Análisis bivariable: Cuantitativa vs cualitativa| 
-30 Mayo|Análisis bivariable: Cuantitativa vs cualitativa|
+9 Mayo| Distribución de probabilidades| Binomial **\|** Normal **\|** Teorema del límite central| [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidNkY2VlFEcnlyVDA) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidVlhuY0dpUHNZTG8) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg)
+16 Mayo|Intervalos de confianza y prueba de hipótesis| 
+23 Mayo|Comparación de promedios y proporciones| 
+30 Mayo|Relación entre dos variables|
 6 Junio|Medidas de concordancia|
-13 Junio|Análisis multivariado|
-20 Junio|Análisis multivariado|
+13 Junio|Introducción a la regresión lineal|
+20 Junio|ANOVA|
 27 Junio|*Charla de interés o discusión de artículo*|
-4 Julio|Presentación de trabajos|
-11 Julio|Presentación de trabajos|
+4 Julio|Taller de gráficos en R|
+11 Julio|*Por definir*|
 
 > ### R y RStudio
 > PASOS:
