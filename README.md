@@ -37,7 +37,7 @@ Fecha | Nombre | Contenidos| Materiales
 25 Abril| Estadística descriptiva parte III|Boxplots **\|** Resumen **\|** Tarea 1 **\|** Artículo |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidRVh5YTEtNFFsa0k) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUnZQNEJLS3hlR3M) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg) **\|** [\[base_de_datos_tarea1\]](https://drive.google.com/open?id=0B429OUPeeFidZExpZURIRmFWaTg) **\|** [\[Tarea_1\]](https://drive.google.com/open?id=0B429OUPeeFidZlV5X01JRHpsYlE) **\|** [\[Artículo\]](https://drive.google.com/open?id=0B429OUPeeFidSm1haHE3Z2lTY3M)
 2 Mayo| *Charla de interés o discusión de artículo*|
 9 Mayo| Distribución de probabilidades| Binomial **\|** Normal **\|** Teorema del límite central| [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidNkY2VlFEcnlyVDA) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidVlhuY0dpUHNZTG8) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg)
-16 Mayo|Intervalos de confianza y prueba de hipótesis| 
+16 Mayo|Intervalos de confianza y prueba de hipótesis| IC para proporción **\|** IC para promedio | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMGgtZldNQUxkMkk) **\|** [\[R\]]() **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidYmlYdVlKeWYzeWM)
 23 Mayo|Comparación de promedios y proporciones| 
 30 Mayo|Relación entre dos variables|
 6 Junio|Medidas de concordancia|
