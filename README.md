@@ -39,13 +39,13 @@ Fecha | Nombre | Contenidos| Materiales
 9 Mayo| Distribución de probabilidades| Binomial **\|** Normal **\|** Teorema del límite central| [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidNkY2VlFEcnlyVDA) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidVlhuY0dpUHNZTG8) **\|** [\[table.csv\]](https://drive.google.com/open?id=0B429OUPeeFidc3BoMlhWM2lQTzg)
 16 Mayo|Intervalos de confianza y prueba de hipótesis| IC para proporción **\|** IC para promedio | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMGgtZldNQUxkMkk) **\|** [\[R\]]() **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidYmlYdVlKeWYzeWM)
 23 Mayo|Prueba de hipótesis|Test Z para 1 proporción **\|** Test t para 1 promedio **\|** Poder estadístico y tamaño de muestra | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidRFpIY1BxYmNKRXM) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUFJhdlJTakhkQ0k)
-30 Mayo|Relación entre dos variables|
+30 Mayo|Pruebas de hipótesis en R| Dos proporciones **\|** Dos promedios **\|** Test F para igualdad de varianzas |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMlhhczVaQXRVR0E) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWlNvdUthM0o0QVU) **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidLTg4cTBjS3c1UEE)
 6 Junio|Medidas de concordancia|
 13 Junio|Introducción a la regresión lineal|
 20 Junio|ANOVA|
 27 Junio|*Charla de interés o discusión de artículo*|
-4 Julio|Taller de gráficos en R|
-11 Julio|*Por definir*|
+4 Julio|**Por definir**|
+11 Julio|Taller de gráficos en R|
 
 > ### R y RStudio
 > PASOS:
