@@ -40,7 +40,7 @@ Fecha | Nombre | Contenidos| Materiales
 16 Mayo|Intervalos de confianza y prueba de hipótesis| IC para proporción **\|** IC para promedio | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMGgtZldNQUxkMkk) **\|** [\[R\]]() **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidYmlYdVlKeWYzeWM)
 23 Mayo|Prueba de hipótesis|Test Z para 1 proporción **\|** Test t para 1 promedio **\|** Poder estadístico y tamaño de muestra | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidRFpIY1BxYmNKRXM) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidUFJhdlJTakhkQ0k)
 30 Mayo|Pruebas de hipótesis en R| Dos proporciones **\|** Dos promedios **\|** Test F para igualdad de varianzas |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMlhhczVaQXRVR0E) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWlNvdUthM0o0QVU) **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidLTg4cTBjS3c1UEE)
-6 Junio|Medidas de concordancia| Chi cuadrado **\|** Riesgo relativo **\|** Correlación de Pearson | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZ3hoZHBfeVFvNXM) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidM2g2S3ZLQjRkb2M)
+6 Junio|Medidas de concordancia| Chi cuadrado **\|** Riesgo relativo **\|** Correlación de Pearson | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZ3hoZHBfeVFvNXM) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidM2g2S3ZLQjRkb2M) **\|** [\[Tarea 2\]](https://drive.google.com/open?id=0B429OUPeeFidcENpb05zTlNtUlk)
 13 Junio|Introducción a la regresión lineal|
 20 Junio|ANOVA|
 27 Junio|*Charla de interés o discusión de artículo*|
