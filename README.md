@@ -42,10 +42,10 @@ Fecha | Nombre | Contenidos| Materiales
 30 Mayo|Pruebas de hipótesis en R| Dos proporciones **\|** Dos promedios **\|** Test F para igualdad de varianzas |[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidMlhhczVaQXRVR0E) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidWlNvdUthM0o0QVU) **\|** [\[apunte\]](https://drive.google.com/open?id=0B429OUPeeFidLTg4cTBjS3c1UEE)
 6 Junio|Medidas de concordancia| Chi cuadrado **\|** Riesgo relativo **\|** Correlación de Pearson | [\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidZ3hoZHBfeVFvNXM) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidM2g2S3ZLQjRkb2M) **\|** [\[Tarea 2\]](https://drive.google.com/open?id=0B429OUPeeFidcENpb05zTlNtUlk)
 13 Junio|Introducción a la regresión lineal| Regresión lineal simple, múltiple y logística| [\[clase\]](https://drive.google.com/file/d/0B429OUPeeFideFdjdVhKa2lCOUU/view?usp=sharing) **\|** [\[R\]](https://drive.google.com/file/d/0B429OUPeeFiddmNrX3ZhOXJOMWM/view?usp=sharing) **\|** [\[datos\]](https://drive.google.com/open?id=0B429OUPeeFidY285YXRueDRyYlU) **\|** [\[Tarea 3\]](https://drive.google.com/open?id=0B429OUPeeFidWkNQbjZfYjlNWGs)  **\|** [\[RLM.txt\]](https://drive.google.com/open?id=0B429OUPeeFidbEx1UnF1MzBGMnM)
-20 Junio|ANOVA|
+20 Junio|Taller de gráficos en R| |[\[R\]](https://drive.google.com/open?id=0B429OUPeeFidZ0JBMVBQTzljUTA)
 27 Junio|*Charla de interés o discusión de artículo*|
 4 Julio|**Por definir**|
-11 Julio|Taller de gráficos en R|
+11 Julio|**Por definir**|
 
 > ### R y RStudio
 > PASOS:
