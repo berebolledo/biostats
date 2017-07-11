@@ -44,8 +44,8 @@ Fecha | Nombre | Contenidos| Materiales
 13 Junio|Introducción a la regresión lineal| Regresión lineal simple, múltiple y logística| [\[clase\]](https://drive.google.com/file/d/0B429OUPeeFideFdjdVhKa2lCOUU/view?usp=sharing) **\|** [\[R\]](https://drive.google.com/file/d/0B429OUPeeFiddmNrX3ZhOXJOMWM/view?usp=sharing) **\|** [\[datos\]](https://drive.google.com/open?id=0B429OUPeeFidY285YXRueDRyYlU) **\|** [\[Tarea 3\]](https://drive.google.com/open?id=0B429OUPeeFidWkNQbjZfYjlNWGs)  **\|** [\[RLM.txt\]](https://drive.google.com/open?id=0B429OUPeeFidbEx1UnF1MzBGMnM)
 20 Junio|Taller de gráficos en R| |[\[R\]](https://drive.google.com/open?id=0B429OUPeeFidZ0JBMVBQTzljUTA)
 27 Junio|ANOVA|1 y 2 vías|[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidQUFfVTNGb1ZLVkE) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFiddmtoQVhXNzhxUGs) **\|** [\[stress.txt\]](https://drive.google.com/open?id=0B429OUPeeFidanR5WjhsX1VZWUk) **\|** [\[Tarea 4\]](https://drive.google.com/open?id=0B429OUPeeFidQU9iaG9QRy1uWXc)
-4 Julio|**Discusión de artículo**| Asik et al (2007) The mid- to long-term results of the anterior cruciate ligament reconstruction with hamstring tendons using Transfix technique| [\[Pubmed\]](https://www.ncbi.nlm.nih.gov/pubmed/17503019)
-11 Julio|**Por definir**|
+4 Julio|Discusión de artículo| Asik et al (2007) The mid- to long-term results of the anterior cruciate ligament reconstruction with hamstring tendons using Transfix technique| [\[Pubmed\]](https://www.ncbi.nlm.nih.gov/pubmed/17503019)
+11 Julio|Resumen| Intervalos de confianza, prueba de hipótesis y relación entre variables - Opciones no paramétricas en R|[\[clase\]](https://drive.google.com/open?id=0B429OUPeeFidSEVva2ZzbFR6bE0) **\|** [\[R\]](https://drive.google.com/open?id=0B429OUPeeFidR2luQVB5bFd3MEE)
 
 > ### R y RStudio
 > PASOS:
